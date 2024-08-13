@@ -1,0 +1,41 @@
+.header-container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: skyblue;
+    height: 80px;
+    align-items: center;
+    .head-1{
+        .icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+        }
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        gap: 10px;
+    }
+    .head-2{
+        color: white;
+        ul{
+            .home{
+                font-weight: bold;
+            }
+            display: flex;
+            gap: 35px;
+            li{
+                list-style-type: none
+            }
+        }
+    }
+    .head-3{
+        .image{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+
+        }
+    }
+}

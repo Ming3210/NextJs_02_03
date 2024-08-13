@@ -1,0 +1,40 @@
+.unactive {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #f0f0f0; /* Optional: add background color for clarity */
+    color: #000; /* Optional: set text color */
+}
+
+.active {
+    width: 30px;
+    height: 30px;
+    background-color: #000594;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: auto; 
+    overflow-x: auto; 
+    padding: 10px; 
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+}
+
+.body {
+    width: 100%; 
+    padding: 10px; 
+}

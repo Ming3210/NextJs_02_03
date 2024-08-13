@@ -16,6 +16,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="icon"
+          href="https://th.bing.com/th/id/OIP.yLWfXo1H89UohhEJwPHgHwHaHa?rs=1&pid=ImgDetMain"
+        />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

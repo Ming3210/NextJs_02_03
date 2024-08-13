@@ -1,0 +1,55 @@
+.popup{
+    padding: 20px;
+    background-color: rgb(227, 229, 231);
+    width: 400px;
+    border-radius: 5px;
+    .cir-1{
+        margin-bottom: 25px;
+        border-radius: 50%;
+        background-color: rgb(239, 184, 184);
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .cir-2{
+            
+            width: 30px;
+            height: 30px;
+            background-color: rgb(243, 153, 153);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            .icon{
+                color: red;
+                font-size: 20px;
+            }
+        }   
+    }
+  .button{
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    .cancel{
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 34px;
+        border: 1px solid;
+        border-radius: 5px;
+    }
+    .delete{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 34px;
+        border-radius: 5px;
+        background-color: red;
+        color: white;
+    }
+  }
+}

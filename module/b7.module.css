@@ -1,0 +1,44 @@
+.success{
+    width: 140px;
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: green;
+}
+.warning{
+    width: 140px;
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.danger{
+    width: 140px;
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.primary{
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    height: 40px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

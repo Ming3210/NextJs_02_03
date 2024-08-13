@@ -7,9 +7,14 @@ module.exports = {
           port: '',
           pathname: '/**',
         },
+        // {
+        //   protocol: 'https',
+        //   hostname: 'th.bing.com',
+        //   port: '',
+        //   pathname: '/**',
+        // },
+       
       ],
-      
-        domains: ['th.bing.com'],
-      
+      domains: ['th.bing.com'],
     },
   }

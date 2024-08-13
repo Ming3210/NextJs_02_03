@@ -1,0 +1,23 @@
+.cart {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .content {
+    padding: 16px;
+  }
+  
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  

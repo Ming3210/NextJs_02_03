@@ -1,0 +1,35 @@
+.alertSuccess {
+    width: 300px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: grey;
+    background-color: rgb(135, 242, 135);
+}
+
+.alertWarning {
+    width: 300px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: grey;
+    background-color: #debc78;
+}
+
+.alertDanger {
+    width: 300px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: grey;
+    background-color: rgb(234, 121, 121);
+}
+
+.alertPrimary {
+    width: 300px;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: grey;
+    background-color: rgb(126, 126, 236);
+}
