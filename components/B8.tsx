@@ -1,6 +1,6 @@
 import React from "react";
 import { FaArrowLeftLong, FaArrowRightLong } from "react-icons/fa6";
-import style from "../module/B8.module.css";
+import style from "../module/b8.module.css";
 
 export default function B8() {
   return (
