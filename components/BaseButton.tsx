@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../module/B7.module.css";
+import style from "../module/b7.module.css";
 
 export default function BaseButton({ type, children }: any) {
   // Xác định lớp CSS dựa trên loại button
