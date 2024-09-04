@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../module/B9.module.css";
+import style from "../module/b9.module.css";
 
 export default function BaseAlert({ type, children }: any) {
   const alertClass =
